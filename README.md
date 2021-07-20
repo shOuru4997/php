@@ -1,2 +1,5 @@
-# php
-It is an example of Extracting data from the MySQL table.
+#php
+Example of extracting data from the MySQL table.
+
+#Woking
+Here, I make use of an remote mysql database and displaying in a table.
